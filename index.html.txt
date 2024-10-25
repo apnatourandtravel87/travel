@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apna Tour & Travel - Car Rental</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="index.html">Home</a> | 
+        <a href="about.html">About Us</a> | 
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <h1>WELCOME TO APNA TOUR & TRAVEL</h1>
+        <p>BOOK YOUR DESTINATION TODAY</p>
+    </header>
+
+    <!-- Car Gallery -->
+    <div>
+        <h2>Available Cars</h2>
+        <img src="images/car1.jpg" alt="Suzuki Ertiga 2018" width="500">
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2024 Apna Tour & Travel. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
